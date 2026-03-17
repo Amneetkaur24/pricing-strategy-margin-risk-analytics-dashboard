@@ -25,14 +25,19 @@ Which discount levels maximize revenue without increasing exposure to margin ris
 • Business KPI dashboard design
 
 ## Key KPIs
-• Total Revenue  $3488979.86
-• Gross Profit  $773265.88
-• Average Margin %  14.93%
-• Total Orders  520
-• Margin Risk Distribution  
-- Healthy Risk-62
-- Medium Risk-426
-- High Risk-32
+## Key KPIs
+
+• Total Revenue: **$3,488,979.86**
+• Gross Profit: **$773,265.88**
+• Average Margin: **14.93%**
+• Total Orders: **520**
+
+### Margin Risk Distribution
+
+• Healthy Risk: **62 orders**
+• Medium Risk: **426 orders**
+• High Risk: **32 orders**
+
 
 ## Dashboard Preview
 <img width="874" height="429" alt="Screenshot 2026-03-17 185629" src="https://github.com/user-attachments/assets/8de939b7-f22b-406a-b4d0-a0bc80894f83" />
